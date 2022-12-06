@@ -1,14 +1,10 @@
 <h1 align="center">Hello, I'm Artyom</h1>
 
-A student, frontend developer and learner from Russia
+A student, frontend developer from Russia. I love programming for the opportunity to constantly grow and learn. For now, I am mainly engaged in frontend, in the future I plan to develop my skills in backend and design.
 
 <h2>My skills</h2>
-
-  <h3>Code editor</h3>
-
-  [![doomemacs](https://img.shields.io/badge/-doomemacs-EFEADB?logo="GNUEmacs")](https://github.com/doomemacs/doomemacs)
   
-  <h3>Programming languages</h3>
+  <h4>Programming languages</h4>
   
   (ordered by decreasing proficiency)
   
@@ -18,7 +14,7 @@ A student, frontend developer and learner from Russia
   [![CSS3](https://img.shields.io/badge/-CSS3-006BC0?logo="CSS3")](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)
   [![Python](https://img.shields.io/badge/-Python-FFDC51?logo="Python")](https://www.python.org/)
   
-  <h3>Technologies</h3>
+  <h4>Technologies</h4>
   
   (unordered)
   
@@ -39,3 +35,7 @@ A student, frontend developer and learner from Russia
   [![RxJS](https://img.shields.io/badge/-RxJs-D81B60?logo="ReactiveX")](https://rxjs.dev/)
   [![Webpack](https://img.shields.io/badge/-Webpack-101619?logo="Webpack")](https://webpack.js.org/)
   [![yarn](https://img.shields.io/badge/-yarn-FFFFFF?logo="yarn")](https://yarnpkg.com/)
+  
+  <h4>My tools</h4>
+
+  [![doomemacs](https://img.shields.io/badge/-doomemacs-EFEADB?logo="GNUEmacs")](https://github.com/doomemacs/doomemacs)
