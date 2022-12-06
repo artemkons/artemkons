@@ -43,7 +43,7 @@ A student, frontend developer from Russia. I love programming for the opportunit
 <h2>My projects</h2>
   
   ### Manuspect
-  RPA platform form b2b and b2c.
+  RPA platform for b2b and b2c.
   - **Status**: :hammer:In process...
   - **Repo**: https://github.com/artemkons/manuspect
 
