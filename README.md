@@ -6,17 +6,12 @@ A student, frontend developer from Russia. I love programming for the opportunit
   
   <h4>Programming languages</h4>
   
-  *(ordered by decreasing proficiency)*
-  
   [![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?logo="TypeScript")](https://www.typescriptlang.org/)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo="JavaScript")](https://developer.mozilla.org/ru/docs/Web/JavaScript)
   [![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?logo="HTML5")](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
   [![CSS3](https://img.shields.io/badge/-CSS3-006BC0?logo="CSS3")](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)
-  [![Python](https://img.shields.io/badge/-Python-FFDC51?logo="Python")](https://www.python.org/)
   
   <h4>Technologies</h4>
-  
-  *(unordered)*
   
   [![Babel](https://img.shields.io/badge/-Babel-3B3C38?logo="Babel")](https://babeljs.io/)
   [![Express](https://img.shields.io/badge/-Express-black?logo="Express")](https://expressjs.com/ru/)
